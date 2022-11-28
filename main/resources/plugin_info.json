@@ -1,0 +1,11 @@
+{
+  "name": "MinDamage",
+  "version": "${version}",
+  "description": "MinDamage for Future Client",
+  "url": "",
+  "authors": [ "me", "you" ],
+  "main_class": "com.lambda.MinDamage",
+  "min_api_version": "3.2",
+  "mixins": [ "mixins.MinDamage.json" ],
+  "required_plugins": []
+}
